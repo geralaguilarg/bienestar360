@@ -43,8 +43,17 @@ La app sirve para seguimiento, no diagnóstico ni tratamiento. El olor genital f
 
 ## Actualización v1.1 — Hair oiling
 
-Los lavados de cabello están programados lunes, miércoles y sábado. El hair oiling se marca en el checklist de las noches anteriores: domingo, martes y viernes. Usar una pequeña cantidad de jojoba de medios a puntas; evitar el cuero cabelludo si hay sensibilidad o tendencia a acumular grasa. Si dejarlo toda la noche causa irritación o apelmazamiento, usar aceite 20–30 minutos antes del lavado en su lugar.
+Los lavados de cabello están programados lunes, miércoles y sábado. El hair oiling se marca únicamente los domingos por la noche, antes del lavado del lunes. Usar una pequeña cantidad de jojoba de medios a puntas; evitar el cuero cabelludo si hay sensibilidad o tendencia a acumular grasa. Si dejarlo toda la noche causa irritación o apelmazamiento, usar aceite 20–30 minutos antes del lavado en su lugar.
 
 
 ## Versión 1.2 — icono
 Nuevo icono flor de loto lila. Antes de eliminar/reinstalar la app en iPhone, exporta una copia de seguridad desde Ajustes. Eliminar la app puede borrar datos locales. Actualiza todos los archivos en GitHub, incluida la caché sw.js.
+
+
+## v1.3 — medidas corporales semanales
+
+Los domingos por la mañana, en ayunas y después de ir al baño, registra peso, cintura, cadera, busto y brazo izquierdo y derecho desde Registro. La pestaña **Métricas** muestra gráficas de evolución por variable y la tabla histórica. Los registros existentes permanecen intactos porque la clave local no cambia (`bienestar360-v1`). Antes de actualizar la PWA se recomienda exportar una copia JSON desde Ajustes.
+
+## v1.4 — Hair oiling solo domingos
+
+El hair oiling quedó programado exclusivamente el domingo por la noche, previo al lavado del lunes. Se mantienen los lavados de lunes, miércoles y sábado, así como la mascarilla del sábado. No cambia la clave de almacenamiento local (`bienestar360-v1`), por lo que los registros previos se mantienen al actualizar normalmente. Realiza una copia de seguridad antes de actualizar.
