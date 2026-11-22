@@ -44,3 +44,7 @@ La app sirve para seguimiento, no diagnóstico ni tratamiento. El olor genital f
 ## Actualización v1.1 — Hair oiling
 
 Los lavados de cabello están programados lunes, miércoles y sábado. El hair oiling se marca en el checklist de las noches anteriores: domingo, martes y viernes. Usar una pequeña cantidad de jojoba de medios a puntas; evitar el cuero cabelludo si hay sensibilidad o tendencia a acumular grasa. Si dejarlo toda la noche causa irritación o apelmazamiento, usar aceite 20–30 minutos antes del lavado en su lugar.
+
+
+## Versión 1.2 — icono
+Nuevo icono flor de loto lila. Antes de eliminar/reinstalar la app en iPhone, exporta una copia de seguridad desde Ajustes. Eliminar la app puede borrar datos locales. Actualiza todos los archivos en GitHub, incluida la caché sw.js.
